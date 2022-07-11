@@ -17,7 +17,7 @@
 
 ## Tubes Framework Instruction Cara Install
 
-* git clone https://github.com/Wahyuadhiprabowo1/to-do-list.git nama-folder
+* git clone https://github.com/Wahyuadhiprabowo1/to-do-list-v1.git nama-folder
 * cd nama folder
 * composer install atau composer update
 * buat database todolist
