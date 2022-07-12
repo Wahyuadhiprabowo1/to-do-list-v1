@@ -4,7 +4,7 @@
 ## About Task Dadiyu
 
 
-## Features Implemented
+## Fitur yang dimiliki
 
 * Pengguna umum dapat mendaftar/login
 * Baik admin dan pengguna umum dapat membuat, melihat, mengedit, menghapus tugas
