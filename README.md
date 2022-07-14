@@ -4,7 +4,7 @@
 ## About Task Dadiyu
 
 
-## Features Implemented
+## Fitur yang dimiliki
 
 * Pengguna umum dapat mendaftar/login
 * Baik admin dan pengguna umum dapat membuat, melihat, mengedit, menghapus tugas
@@ -17,8 +17,8 @@
 
 ## Tubes Framework Instruction Cara Install
 
-* git clone https://github.com/Wahyuadhiprabowo1/to-do-list.git nama-folder
-* cd nama folder
+* git clone https://github.com/Wahyuadhiprabowo1/to-do-list-v1.git nama-folder
+* cd nama-folder
 * composer install atau composer update
 * buat database todolist
 * php artisan migrate:fresh --seed
