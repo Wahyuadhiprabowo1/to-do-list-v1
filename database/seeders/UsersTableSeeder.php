@@ -1,14 +1,11 @@
 <?php
 
 namespace Database\Seeders;
-
 use Illuminate\Database\Seeder;
 use App\Models\Role;
 use App\Models\User;
 use Illuminate\Support\Facades\Hash;
 use DB;
-
-
 class UsersTableSeeder extends Seeder
 {
     /**
@@ -40,5 +37,4 @@ class UsersTableSeeder extends Seeder
         $admin->roles()->attach($adminRole);
         $user->roles()->attach($userRole);
     }
-
 }
